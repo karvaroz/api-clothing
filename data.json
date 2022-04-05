@@ -6,6 +6,7 @@
             "description": "This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "type": "camisetas",
             "category": "MEN",
+            "image": "https://www.mattelsa.net/media/catalog/product/cache/11dadf1c318faa12046dcbbf38b711fe/6/4/64724-1.jpg",
             "id": 1
         }
     ],
