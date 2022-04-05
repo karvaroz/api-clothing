@@ -7,7 +7,28 @@
             "type": "camisetas",
             "category": "MEN",
             "image": "https://www.mattelsa.net/media/catalog/product/cache/11dadf1c318faa12046dcbbf38b711fe/6/4/64724-1.jpg",
+            "reference": 101,
             "id": 1
+        },
+        {
+            "name": "Product 2",
+            "price": "60000",
+            "description": "Descripcion prod 2",
+            "type": "WOMEN",
+            "category": "Tops",
+            "image": "https://www.mattelsa.net/media/catalog/product/cache/11dadf1c318faa12046dcbbf38b711fe/6/4/64724-1.jpg",
+            "reference": 102,
+            "id": 2
+        },
+        {
+            "name": "Prod 3",
+            "price": "30000",
+            "description": "Descripcion prod 3",
+            "type": "WOMEN",
+            "category": "Tops",
+            "image": "https://www.mattelsa.net/media/catalog/product/cache/11dadf1c318faa12046dcbbf38b711fe/6/4/64724-1.jpg",
+            "reference": 103,
+            "id": 3
         }
     ],
     "tops": [
